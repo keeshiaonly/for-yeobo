@@ -1,2 +1,2 @@
 # message-for-yeobo
-wala lang
+click: https://github.com/keeshiaonly/message-for-yeobo.git
